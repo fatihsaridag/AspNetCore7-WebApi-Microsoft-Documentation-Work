@@ -13,3 +13,5 @@ Asp .Net Core 7 Microsoft Documentation örnek çalışmasını uyguladım ve ya
 
 ## İlgili Resimler ##
 
+![5](https://user-images.githubusercontent.com/68101192/207521559-50ca11ac-b515-48e1-9b66-8f070d32a0ea.png)
+![6](https://user-images.githubusercontent.com/68101192/207521561-888e3af2-47e3-4a64-9de6-166dfafc8a66.png)
